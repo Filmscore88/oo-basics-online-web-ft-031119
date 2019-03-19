@@ -10,5 +10,7 @@ class Shoe
     @brand
   end
  
+ def cobble 
+   puts "Y"
   
 end 
